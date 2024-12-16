@@ -153,7 +153,7 @@ class UsersController extends AppController
 
 		$user = $this->Users
 			->findBySlug($slug)
-			->contain(['UserGroups', 'Applications', 'Contacts', 'Todos', 'UserLogs'])
+			->contain(['UserGroups', 'Applications', 'Contacts', 'UserLogs'])
 			->firstOrFail();
 		//$user = $this->Users->get($slug, contain: ['UserGroups', 'Applications', 'Contacts', 'Todos', 'UserLogs']);
 		/* $user = $this->Users->get($id, [
