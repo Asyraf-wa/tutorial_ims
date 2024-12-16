@@ -6,9 +6,16 @@ A sample tutorial project that create a web application for Intern Management Sy
 
 -   [@Asyraf-wa](https://github.com/Asyraf-wa)
 
-## Documentation
+## Features
 
-[Documentation](https://linktodocumentation)
+-   [x] CRUD generated
+-   [x] Admin access
+-   [x] User access
+-   [x] Form customization
+-   [x] Search
+-   [x] PDF correspondence
+-   [x] Approval function
+-   [x] QR Code for sharing
 
 ## Run Locally
 
@@ -66,6 +73,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-## Screenshots
+## Tutorial Video (Development of IMS)
 
 [![Watch the tutorial video](https://github.com/Asyraf-wa/tutorial_ims/blob/main/webroot/img/bguide.png)](https://www.youtube.com/watch?v=EzOlN2Uc0Vs)
