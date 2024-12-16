@@ -68,4 +68,4 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Screenshots
 
-[![Watch the tutorial video](https://www.youtube.com/watch?v=EzOlN2Uc0Vs)](https://www.youtube.com/watch?v=EzOlN2Uc0Vs)
+[![Watch the tutorial video](https://github.com/Asyraf-wa/tutorial_ims/blob/main/webroot/img/bguide.png)](https://www.youtube.com/watch?v=EzOlN2Uc0Vs)
